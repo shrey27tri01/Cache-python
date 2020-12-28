@@ -12,7 +12,7 @@ Implementation of a [Direct Mapped Cache](https://en.wikipedia.org/wiki/Cache_pl
 
 <img src="rates.png">
 
-**Note**: The LRU (Least Recently Used) policy has been used, for replacement in the 4-way Set Associative Cache.
+**Note**: The LRU (Least Recently Used) policy has been used for replacement in the 4-way Set Associative Cache.
 
 ### Observations:
 
